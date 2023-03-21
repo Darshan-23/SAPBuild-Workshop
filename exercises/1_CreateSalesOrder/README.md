@@ -1,10 +1,9 @@
 ## Table of Contents
-## Test
-- [Create a business process projects](#project)
+- [Create a business process project](#project)
 - [Create a business process](#process)
 - [Create an Data Type](#data)
 - [Create and Configure Approval form](#aprrovalform)
-- [Create and Configure Order Approval Notification form](#appnotification)
+- [Create and Configure Order Approval Notification form](#approvalnotification)
 - [Create and configure Order Rejection Notification Form](#rejnotification)
 - [Create and Configure Process Condition](#processcondi)
 - [Create and Configure Auto Approval Notification](#autoapproval)
